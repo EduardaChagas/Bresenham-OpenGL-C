@@ -6,7 +6,7 @@ Valor 2 Pontos Instruções:
 
 a) Desenhar um campo de basquete usando as equações da reta e de circunferência - FEITO;  
 
-b) Desenhar o campo de basquete usando Bresenham: retas e circunferências;  
+b) Desenhar o campo de basquete usando Bresenham: retas e circunferências - FEITO;  
 
 c) A arquibancada será desenhada pelo usuário que irá clicar em pontos da tela e a partir destes pontos será traçado retas que definirão o objeto;
 
